@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2516176277
+    locked: 0
+  - name: Shadow
+    uniqueID: 1984921317
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character row 1
+    uniqueID: 4044534241
+    locked: 0
+  - name: Character row 2
+    uniqueID: 3446371693
+    locked: 0
+  - name: Character Overlay
+    uniqueID: 3459832045
+    locked: 0
+  - name: VFX
+    uniqueID: 3409230595
+    locked: 0
